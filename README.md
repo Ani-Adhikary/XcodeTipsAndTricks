@@ -5,4 +5,4 @@ https://stackoverflow.com/questions/1302831/xcode-changing-double-clicking-file-
 
 
 <b>Open Xcode project using Terminal </b> <br />
-Type ProjectName.xcodeproj on terminal
+Type open ProjectName.xcodeproj on terminal
