@@ -23,3 +23,7 @@ the whole selected code will nicely indent.
 
 <h3>Uninstall Xcode </h3>
 http://osxdaily.com/2012/02/20/uninstall-xcode/
+
+<h3>How to do Face ID Touch ID Auth in Simulator</h3>
+
+Learning that part for App2App
