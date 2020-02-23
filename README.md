@@ -27,3 +27,7 @@ http://osxdaily.com/2012/02/20/uninstall-xcode/
 <h3>How to do Face ID Touch ID Auth in Simulator</h3>
 
 Learning that part for App2App
+
+1. Begining Hardware - Register
+
+2. When asking for password then - Do Matching Face for Success - Cool
