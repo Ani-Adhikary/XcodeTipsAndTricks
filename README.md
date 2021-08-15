@@ -37,3 +37,11 @@ Learning that part for App2App
 
 https://developer.apple.com/download/more/?name=Xcode
 
+<h3> Instruments help</h3>
+
+https://help.apple.com/instruments/mac/current/
+
+<h3> Xcode Build System </h3>
+
+https://www.vadimbulavin.com/xcode-build-system/
+
