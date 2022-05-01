@@ -49,4 +49,7 @@ https://www.vadimbulavin.com/xcode-build-system/
 ![AppStoreUploadIssue](https://user-images.githubusercontent.com/33363003/166161139-e7ba9285-e549-4b71-929b-f1062e19b913.png)
 
 
+![AppStoreUploadIssue](https://user-images.githubusercontent.com/33363003/166161155-012a76b6-2eb9-4775-87f1-cb3cccd3fc2a.png)
+
+
 
