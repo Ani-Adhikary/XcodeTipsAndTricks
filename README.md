@@ -45,3 +45,8 @@ https://help.apple.com/instruments/mac/current/
 
 https://www.vadimbulavin.com/xcode-build-system/
 
+<h3> App Store upload fix</h3>
+![AppStoreUploadIssue](https://user-images.githubusercontent.com/33363003/166161139-e7ba9285-e549-4b71-929b-f1062e19b913.png)
+
+
+
