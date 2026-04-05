@@ -28,6 +28,17 @@ rm -rf ~/Library/Developer/Xcode/iOS\ DeviceSupport
 
 ```
 
+<h2>🧪 6. Clear Simulator Data (Fix RAM spikes) - Danger </h2>
+
+```
+
+rm -rf ~/Library/Developer/CoreSimulator/Devices
+
+```
+
+
+⚠️ This resets all simulators (clean state)
+
 <h2>🚀 9. Pro Tip (Huge Impact) </h2>
 
 Run this weekly:
